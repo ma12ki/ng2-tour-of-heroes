@@ -8,6 +8,8 @@ typings
 .settings
 *.log
 build
+app/**/*.js
+app/**/*.map
 
 # sublime
 *.sublime-project
